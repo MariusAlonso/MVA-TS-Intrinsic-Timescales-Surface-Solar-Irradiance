@@ -7,4 +7,4 @@ https://npg.copernicus.org/articles/25/19/2018/npg-25-19-2018.pdf
 
 ## Report
 
-The report is available in the repository [here](report.pdf)
+The report is available in the repository [here](report.pdf).
